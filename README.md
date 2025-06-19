@@ -21,10 +21,7 @@ This is my personal developer portfolio built with **React**. It showcases my sk
 
 ## 📸 Screenshots
 
-_Add a few images of your portfolio here using Markdown:_
-
-```markdown
-![Home](./screenshots/black-home.jpg)
-![Home White](./screenshots/white-home.jpg)
-![Experience Section](./screenshots/experience.jpg)
+![Home](./screenshots/black-home.jpg)  
+![Home White](./screenshots/white-home.jpg)  
+![Experience Section](./screenshots/experience.jpg)  
 ![Contact Me Page](./screenshots/contact.jpg)
